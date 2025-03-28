@@ -10,8 +10,5 @@ public class A {
 
 	public A() {
 		System.out.println("A class constructor executed...");
-		System.out.println("BYEBYE");
-		System.out.println("HIHI");
-		
 	}
 }
